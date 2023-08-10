@@ -4,7 +4,11 @@ import React from 'react'
 
 const HeroImg = () => {
   return (
-    <div>HeroImg</div>
+    <div className="hero">
+        <div className="mask">
+            
+        </div>
+    </div>
   )
 }
 
