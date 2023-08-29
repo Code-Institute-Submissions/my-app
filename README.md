@@ -70,10 +70,6 @@ Contact page.
 * HTML, CSS, and React.JS were used for development.
 * Heroku was used for deployment.
   
-# Accessibility in Lighthouse.
- 
-![image](https://github.com/Imalsha0330/Fourth-Project/assets/131761126/0b559436-e6b0-4654-935c-3826fe13e416)
-
 # Deployment
   
 * This site was deployed via Heroku using the following steps:
